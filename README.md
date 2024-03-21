@@ -49,7 +49,8 @@ Example: *Ursula von der Leyen menace les Italiens à la veille des élections* 
   
 - `Offbeat Title`: the article has a misleading headline not accurately reflecting the content of the article.
 
-Example: *La France condamnée pour avoir placé un enfant musulman dans une famille chrétienne* \[alors qu'en réalité la France a été condamnée pour avoir placé l'enfant dans une famille où il a été victime d'abus] / *France condemned for placing a Muslim child in a Christian family* \[when in fact France was condemned for having placed the child in a family where he or she had been abused].
+## Example: 
+*La France condamnée pour avoir placé un enfant musulman dans une famille chrétienne* \[alors qu'en réalité la France a été condamnée pour avoir placé l'enfant dans une famille où il a été victime d'abus] / *France condemned for placing a Muslim child in a Christian family* \[when in fact France was condemned for having placed the child in a family where he or she had been abused].
 
 These labels have been chosen to better caracterize the content of each article. Some of them are objective (`Places, Dates, People`, `Facts`, `Sources Cited`, etc.) while others rely more on the annotators' perception. Analyzing the co-ocurrence between the labels help understand how alternative news are perceived by readers.
 
