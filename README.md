@@ -8,7 +8,7 @@ We present a corpus of 100 articles selected from 17 sources of French press con
 
 - `Fake News`: the article describes at least a false or exaggerated fact.
 
-Example: ``La 5G est le meilleur moyen de prendre le contrôle de votre esprit'' / ``5G is the best way to take control of your mind''. 
+Example: "La 5G est le meilleur moyen de prendre le contrôle de votre esprit" / "5G is the best way to take control of your mind". 
   
 - `Places, Dates, People`: the article mentions at least one place, date or person.
 
